@@ -19,7 +19,7 @@ public class Agents extends Agent {
 
 //        System.out.println(getLocalName());
         registerAgent();
-        //Вывод русских символов
+
         //System.setProperty("console.encoding","Cp866");
         System.setProperty("console.encoding","utf-8");
 
